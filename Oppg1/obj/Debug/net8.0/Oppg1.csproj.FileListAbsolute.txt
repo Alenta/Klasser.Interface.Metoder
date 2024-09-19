@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\obj\Debug\net8.0\Oppg1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\obj\Debug\net8.0\Oppg1.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\obj\Debug\net8.0\Oppg1.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\obj\Debug\net8.0\Oppg1.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\bin\Debug\net8.0\Oppg1.exe
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\bin\Debug\net8.0\Oppg1.deps.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\bin\Debug\net8.0\Oppg1.runtimeconfig.json
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\bin\Debug\net8.0\Oppg1.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\bin\Debug\net8.0\Oppg1.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\obj\Debug\net8.0\Oppg1.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\obj\Debug\net8.0\refint\Oppg1.dll
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\obj\Debug\net8.0\Oppg1.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\obj\Debug\net8.0\Oppg1.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Skrivebord\Kode Test\C#\Oppgaver\Klasser.Interface.Metoder\Oppg1\obj\Debug\net8.0\ref\Oppg1.dll
